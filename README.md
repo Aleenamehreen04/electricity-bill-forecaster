@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/7563f903-1354-42ac-a8ff-40f79358d482
+
 # Electricity Bill Forecaster
 
 A beginner-friendly machine learning project that predicts a household/property's electricity cost (bill) using Multiple Linear Regression.
