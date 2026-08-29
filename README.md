@@ -125,3 +125,5 @@ Multiple Linear Regression proved to be a suitable and interpretable model for t
    ```
 
 5. Enter property details in the browser form to get a predicted electricity bill.
+
+**Note:** The Streamlit app (`app.py`) is not deployed online, so it cannot be run directly from this repository link. A screen recording demonstrating the app running locally has been provided separately to show its functionality.
