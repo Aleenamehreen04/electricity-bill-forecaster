@@ -73,7 +73,7 @@ No missing values were found in the dataset.
 8. Saved the trained model using Joblib for reuse without retraining
 9. Built a simple Streamlit web UI for interactive predictions
 
-## Dataset
+## Dataset source
 
 - **Name:** Electricity Cost Prediction Dataset
 - **Source:** [Kaggle — shalmamuji/electricity-cost-prediction-dataset](https://www.kaggle.com/datasets/shalmamuji/electricity-cost-prediction-dataset)
@@ -82,17 +82,6 @@ No missing values were found in the dataset.
 - **Missing values:** None
 - **Included in this repo:** [`dataset/electricity_cost_dataset.csv`](dataset/electricity_cost_dataset.csv)
 
-| Column | Description |
-|---|---|
-| site area | Size of the property/site |
-| structure type | Building category (Residential, Mixed-use, Industrial, Commercial) |
-| water consumption | Water used |
-| recycling rate | Recycling percentage |
-| utilisation rate | Utilisation percentage of the site |
-| air qality index | Air quality index |
-| issue reolution time | Time taken to resolve issues |
-| resident count | Number of residents |
-| **electricity cost** | **Target** — actual electricity bill/cost |
 
 Full credit to the original Kaggle author for the dataset, linked above.
 
